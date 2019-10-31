@@ -1,8 +1,9 @@
 # qitmeer-atomicswap
 The cross-chain atomic swaps of Qitmeer
 
-```bash
-$ npm i
-```
+### run
 
-## TEST
+```bash
+> npm i
+> npm start
+```

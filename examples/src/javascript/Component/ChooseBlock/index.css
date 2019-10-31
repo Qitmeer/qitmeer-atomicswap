@@ -1,0 +1,23 @@
+.z_dom_choose_block .z_dom_choose_block_radio {
+    display: none;
+}
+
+.z_dom_choose_block_child {
+    padding: 0.4rem;
+    margin: 0.8rem 0;
+}
+
+.z_dom_choose_block_radio:checked + .z_dom_choose_block_child {
+    border-color: #0071de;
+    box-shadow: 15px 28px 25px -18px rgba(0,0,0,0.4);
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+}
+
+.z_dom_choose_block_child:hover {
+    -webkit-transform: translate3d(0,2px,0);
+    transform: translate3d(0,2px,0);
+    box-shadow: 2px 8px 8px -5px rgba(0,0,0,.3);
+    box-shadow: 15px 28px 25px -18px rgba(0,0,0,0.2);
+    transition: all 150ms ease-in-out 0s;
+}

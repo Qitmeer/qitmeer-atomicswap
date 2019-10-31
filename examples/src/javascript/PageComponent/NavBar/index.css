@@ -1,0 +1,13 @@
+nav .modal div {margin: 0px;}
+
+.adduser {margin-right: 0px;}
+
+.adduser input {width: 100%;}
+
+.adduser .form-group {padding: 0.25rem 0 0.5rem;}
+
+nav .margin {margin: 0px}
+
+.collapsible-body .inline li:last-of-type {
+    margin-right: 0px
+}
