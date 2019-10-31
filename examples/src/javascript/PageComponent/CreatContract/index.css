@@ -1,0 +1,11 @@
+.no_padding .col {
+    padding: .8rem 0
+}
+
+.no_padding .col:first-of-type {
+    padding-right: .4rem;
+}
+
+.no_padding .col:last-of-type {
+    padding-left: .4rem;
+}

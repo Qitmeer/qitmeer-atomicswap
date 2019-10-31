@@ -1,0 +1,11 @@
+.zy_loader_icon {
+    height: 100%;
+    width: 26px;
+    margin: auto;
+    display: flex;
+}
+
+.zy_loader_icon img{
+    width: 100%;
+    border: 0px !important;
+}
